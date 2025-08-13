@@ -1,1 +1,0 @@
-# itmo_fin_task
